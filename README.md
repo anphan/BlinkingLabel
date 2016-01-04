@@ -1,5 +1,3 @@
-# BlinkingLabel
-
 [![CI Status](http://img.shields.io/travis/An N. PHAN/BlinkingLabel.svg?style=flat)](https://travis-ci.org/An N. PHAN/BlinkingLabel)
 [![Version](https://img.shields.io/cocoapods/v/BlinkingLabel.svg?style=flat)](http://cocoapods.org/pods/BlinkingLabel)
 [![License](https://img.shields.io/cocoapods/l/BlinkingLabel.svg?style=flat)](http://cocoapods.org/pods/BlinkingLabel)
@@ -27,3 +25,5 @@ An N. PHAN, anng.phan@gmail.com
 ## License
 
 BlinkingLabel is available under the MIT license. See the LICENSE file for more info.
+=======
+>>>>>>> d38b6394fab600659d226883230e023ec84fc3bf
